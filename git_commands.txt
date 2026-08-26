@@ -1,4 +1,4 @@
-   2 python test.py                                                                                                                                                          
+python test.py                                                                                                                                                          
    3 ls                                                                                                                                                                      
    4 ls -l                                                                                                                                                                   
    5 clear                                                                                                                                                                   
@@ -8,23 +8,82 @@
    9 git status                                                                                                                                                              
   10 git add test.py                                                                                                                                                         
   11 git status                                                                                                                                                              
-                                                                                                                                                         
+  12 git rm --cached                                                                                                                                                         
   13 git rm --cached test.py                                                                                                                                                 
   14 git status                                                                                                                                                              
   15 git add test.py                                                                                                                                                         
   16 git status                                                                                                                                                              
-                                                                                                                                              
+  17 git commmit -m '1st commit'                                                                                                                                             
   18 git commit -m '1st commit'                                                                                                                                              
   19 git status                                                                                                                                                              
   20 rm test.py                                                                                                                                                              
-                                                                                                                                                            
+  21 git status                                                                                                                                                              
   22 git restore test.py                                                                                                                                                     
   23 git status                                                                                                                                                              
   24 clear                                                                                                                                                                   
   25 rm test.py                                                                                                                                                              
   26 git restore test.py                                                                                                                                                     
-  27 clear  
-
-  clear
-  clear
- i am editing this file to learn git pull
+  27 clear                                                                                                                                                                   
+  28 history                                                                                                                                                                 
+  29 clear                                                                                                                                                                   
+  30 git status                                                                                                                                                              
+  31 git add git_commands.txt                                                                                                                                                
+  32 git commit -m '2nd commit'                                                                                                                                              
+  33 git status                                                                                                                                                              
+  34 clear                                                                                                                                                                   
+  35 git remote -v                                                                                                                                                           
+  36 git push                                                                                                                                                                
+  37 git remote add origin https://github.com/Abhishekkoli18/git_learn.git                                                                                                   
+  38 git push -u origin main                                                                                                                                                 
+  39 git branch -M main                                                                                                                                                      
+  40 git push -u origin main                                                                                                                                                 
+  41 clear                                                                                                                                                                   
+  42 git status                                                                                                                                                              
+  43 git push                                                                                                                                                                
+  44 git status                                                                                                                                                              
+  45 git add .                                                                                                                                                               
+  46 git status                                                                                                                                                              
+  47 git push                                                                                                                                                                
+  48 git status                                                                                                                                                              
+  49 git commit -m '3rd change'                                                                                                                                              
+  50 git status                                                                                                                                                              
+  51 git push                                                                                                                                                                
+  52 git status                                                                                                                                                              
+  53 clear                                                                                                                                                                   
+  54 git status                                                                                                                                                              
+  55 git pull                                                                                                                                                                
+  56 clear                                                                                                                                                                   
+  57 git branch                                                                                                                                                              
+  58 clear                                                                                                                                                                   
+  59 git branch                                                                                                                                                              
+  60 git branch                                                                                                                                                              
+  61 git branch dev                                                                                                                                                          
+  62 git switch dev                                                                                                                                                          
+  63 git status                                                                                                                                                              
+  64 git add example_file_dev.txt                                                                                                                                            
+  65 git commit -m 'dev commit'                                                                                                                                              
+  66 git push                                                                                                                                                                
+  67 git switch main                                                                                                                                                         
+  68 git switch dev                                                                                                                                                          
+  69 git status                                                                                                                                                              
+  70 git log                                                                                                                                                                 
+  71 git log --oneline                                                                                                                                                       
+  72 git push origin dev                                                                                                                                                     
+  73 git switch main                                                                                                                                                         
+  74 git switch origin main                                                                                                                                                  
+  75 clar                                                                                                                                                                    
+  76 clear                                                                                                                                                                   
+  77 git pull origin main                                                                                                                                                    
+  78 git log --oneline                                                                                                                                                       
+  79 git                                                                                                                                                                     
+  80 clear                                                                                                                                                                   
+  81 git pull                                                                                                                                                                
+  82 git pull origin main                                                                                                                                                    
+  83 git checkout origin main                                                                                                                                                
+  84 git checkout main                                                                                                                                                       
+  85 clae                                                                                                                                                                    
+  86 clar                                                                                                                                                                    
+  87 clar                                                                                                                                                                    
+  88 clear                                                                                                                                                                   
+  89 git status                                                                                                                                                              
+  90 git pull origin main 
