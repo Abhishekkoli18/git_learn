@@ -24,3 +24,6 @@
   25 rm test.py                                                                                                                                                              
   26 git restore test.py                                                                                                                                                     
   27 clear  
+
+  clear
+  clear
